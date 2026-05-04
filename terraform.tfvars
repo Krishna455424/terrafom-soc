@@ -1,0 +1,1 @@
+signalfx_token = "jjftvsomRFd6_u3VoY9eOA"
